@@ -6,12 +6,12 @@ This project is a part of Udacity's Data Scientist Nanodegree. The goal of this 
 Predicting churn rates is a challenging and common problem that data scientists and analysts regularly encounter in any customer-facing business. The ability to efficiently manipulate large datasets with Spark is one of the highest-demand skills in the field of data.
 
 ## Installations
-Python
-Spark
-Pyspark
-pandas
-Matplotlib
-Seaborn
+  - Python
+  - Spark
+  - Pyspark
+  - pandas
+  - Matplotlib
+  - Seaborn
 
 You will also need to have software installed to run and execute an iPython Notebook.
 
@@ -23,7 +23,7 @@ Sparkify.ipynb - Notebook containing feature explorations, visualizations and mo
 We generated from the exploration of user's behavior several features and implemented with the
 created features different models with five ML algorithms to train and test the dataset. The F1 score
 is our metric to evaluate the model performance. 
-You can find more detail on my [blogpost] ().
+You can find more detail on my [blogpost](https://medium.com/@maggie.chlee/how-to-predict-churn-with-pyspark-8345327254b6).
 
 ## Licensing, Authors, Acknowledgements
 Thanks to Udacity for the data and project motivation.
